@@ -17,7 +17,7 @@ const mcAdmin = new McMyAdmin({
 
 ## API Methods
 
-### mcAdmin.status((err, info))
+### .status((err, info))
 > mcAdmin.status((err, info) => {});
 
 Get the server status
