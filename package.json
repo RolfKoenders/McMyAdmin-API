@@ -1,8 +1,8 @@
 {
   "name": "mcmyadmin-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "nodejs interface for the mcmyadmin api",
-  "main": "index.js",
+  "main": "./lib/mcmyadmin.js",
   "scripts": {
     "precommit": "gulp lint",
     "prepush": "npm test",
