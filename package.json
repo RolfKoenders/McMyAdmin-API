@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "nodejs interface for the mcmyadmin api",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "precommit": "gulp lint",
     "prepush": "npm test",
