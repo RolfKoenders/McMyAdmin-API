@@ -7,7 +7,7 @@
   "scripts": {
     "precommit": "gulp lint",
     "prepush": "npm test",
-    "start": "node ./index.js",
+    "start": "node ./lib/mcmyadmin.js",
     "test": "gulp test"
   },
   "author": "Rolf Koenders <@rolfkoenders>",
