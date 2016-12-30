@@ -20,7 +20,7 @@ const mcAdmin = new McMyAdmin({
 
 ## API Methods
 
-### .status((err, info))
+### status
 > mcAdmin.status((err, info) => {});
 
 Get the server status. The info object has the following properties:
